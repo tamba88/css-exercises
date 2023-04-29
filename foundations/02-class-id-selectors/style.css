@@ -1,0 +1,17 @@
+.basic-text {
+    background-color: pink;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.fontsize {
+    background-color: pink;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+}
+
+#title {
+    color: blue;
+    font-style: italic;
+    font-size: 36px;
+}
